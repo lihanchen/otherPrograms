@@ -1,0 +1,3 @@
+Lottery
+
+It's a program that can decide a order of numbers that represent different people

@@ -1,0 +1,3 @@
+Sudoku solver 
+
+Sudoku is a famous game from Japan. This program can solve any correct sudoku in a second and show the procedure to solve it step by step.

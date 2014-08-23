@@ -1,0 +1,4 @@
+Gobang
+
+It a interesting game. Read more in http://en.wikipedia.org/wiki/Gobang
+This program can play Gobang with people. And the AI is kind of smart.

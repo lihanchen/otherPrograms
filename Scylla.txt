@@ -1,0 +1,7 @@
+Scylla encrypted disk
+
+Have you seen the TV series prison break?
+In season4, Michael was trying to steal somthing called Scylla which are actually six cards that save important data seprately
+
+So I got the idea. I can divide a file archieve into several parts to protected it. Missing of any part will cause the failure to open the archieve
+Besides, users can also use password to protect the achieve

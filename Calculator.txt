@@ -1,0 +1,4 @@
+Calculator
+
+A tiny, fast calculator that can display result in fraction and root rather that decimal only
+Users can input all the fuctions with keyboard without moving mouse
